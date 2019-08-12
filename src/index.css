@@ -1,0 +1,15 @@
+* {
+  color: white;
+  font: 16px monospace;
+  transition: all ease-in-out 300ms;
+}
+
+html, body, #root {
+  background: #121212;
+  height: 100%;
+  width: 100%;
+}
+
+div {
+  display: grid;
+}
